@@ -86,8 +86,7 @@ Pinning in compiled librairies.
 
 ![](screenshots/CovidScanInvalid.png)
 
-Technologies: Smali
-TLS 1.3
+TLS 1.2
 Certificate pining : Yes
 Root and/or emulator detection : No
 
@@ -97,4 +96,4 @@ https://github.com/eu-digital-green-certificates/
 
 https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-certificates_v2_en.pdf
 
-![](screenshots/2021-09-23-09-38-54.png)
+![](screenshots/DGCG.png)
